@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>GHAssertNotEqualStrings(${1:@"${2:val1}"}, ${3:@"${4:val}"}, ${5:nil});</string>
+	<key>name</key>
+	<string>GHAssertNotEqualStrings</string>
+	<key>scope</key>
+	<string>source.objc, source.objc++</string>
+	<key>tabTrigger</key>
+	<string>anes</string>
+	<key>uuid</key>
+	<string>E0DA9B37-AA2D-412F-A1CC-D2C92267EBFE</string>
+</dict>
+</plist>

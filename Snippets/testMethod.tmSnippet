@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>- (void) test${1:SomethingToTest} 
+	<string>- (void)test${1:SomethingToTest} 
 {
 	$2
 }</string>
